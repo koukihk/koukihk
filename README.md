@@ -3,3 +3,5 @@
 - 🎨 Want to learn front-end development and UX
 - 👨‍🎓 Want to be a graduate student
 - 😸 Love Anime & Manga & Game
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koukihk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
