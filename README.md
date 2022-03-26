@@ -1,6 +1,5 @@
 ### Hi,I'm Kouki👋
 
-- 🎨 Want to learn front-end development and UX
 - 👨‍🎓 Want to be a postgraduate
 - 😸 Love Anime & Manga & Game
 
