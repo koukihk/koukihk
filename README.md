@@ -10,6 +10,8 @@
 - JavaScript | Web development
 - C++ | System programming
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=koukihk&layout=compact)
+
 ## 🎮 Gaming & Interests
 - Avid anime & manga enthusiast
 - Dedicated Arknights player
